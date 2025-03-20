@@ -1,4 +1,4 @@
-# 诈骗检测模型
+# 金融舞弊检测模型
 
 本项目是一个基于多种机器学习和深度学习方法的诈骗检测系统，使用 `MLPClassifier`、`TabNetClassifier` 和 `FT-Transformer` 进行训练，并使用 `XGBoost` 进行模型融合。
 
